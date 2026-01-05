@@ -1,12 +1,12 @@
 # VLSI-Design-of-FIR-Filter-for-DSP-Applications
 
-Project Description
-This project presents the **VLSI implementation of a 16-tap FIR filter using Verilog HDL**
-for **biomedical digital signal processing applications** such as **ECG noise removal**.
-The design is verified using **EDA Playground with Icarus Verilog** and analyzed using
-**EPWave waveform viewer**
+Project Description:-
+This project presents the VLSI implementation of a 16-tap FIR filter using Verilog HDL
+for biomedical digital signal processing applications such as ECG noise removal.
+The design is verified using EDA Playground with Icarus Verilog and analyzed using
+EPWave waveform viewer
 
-Objectives
+Objectives:-
 - Design and implement FIR filter using Verilog HDL
 - Apply ECG-like noisy input signals
 - Verify filtering functionality through simulation
